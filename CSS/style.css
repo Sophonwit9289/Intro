@@ -1,0 +1,121 @@
+body {
+  font-family:"Playfair Display", serif;
+  line-height: 1.8;
+  margin: 20px;
+}
+h1{
+  color: #6c0444;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+h2 {
+  color: #27023a;
+  }
+.now img {
+  width: 270px;
+  height: auto;
+  border-radius: 40px;
+  
+  justify-content: center;
+  }
+
+ table {
+  width: 55%;
+  border-collapse: collapse;
+  margin: 20px 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ td {
+  padding: 12px 15px;
+  border: 1px solid #c9bfbf;
+  text-align: left;
+  color: #5f5f5f;
+
+}
+
+th {
+  background-color: #e4c0c0;
+  font-weight: bold;
+  color: #5c5c5c;
+}
+.my {
+  text-align: center;
+}
+
+
+
+.left {
+  text-align: left;
+}
+
+.pom {
+  text-align: center;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 35px;
+}
+
+.pen {
+  text-align: right;
+    text-align: center;
+}
+
+.kon {
+  text-align: left;
+    text-align: center;
+    padding-top: 10px;
+  padding-bottom: 35px;
+}
+
+.ti {
+  text-align: right;
+    text-align: center;
+    padding-top: 10px;
+  padding-bottom: 35px;
+}
+
+.dee {
+  text-align: right;
+    text-align: center;
+}
+
+.mono {
+  text-align: right;
+  text-align: center;
+  font-weight: bold;
+}
+
+.zoo {
+  text-align: right;
+    text-align: center;
+    font-weight: bold;
+}
+
+.lol {
+  text-align: right;
+}
+td {
+    text-align: center;
+    
+}
+.len{
+  text-align: left;
+}
+
+.ry {
+  display: flex;
+  justify-content: center;
+  gap: 4px;
+  
+}
+
+
+  .kun{
+    text-align: center;
+  }
+  .rov{
+    font-weight: bold;
+  }
